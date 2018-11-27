@@ -1,0 +1,9 @@
+node_modules
+dist
+.idea
+.DS_Store
+*.js
+*.js.map
+npm-debug.log
+build
+__version__
